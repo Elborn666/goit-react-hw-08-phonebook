@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.7ce1b187.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.1e2c88e1.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.f0391257.js",
     "static/js/946.4b745ffd.chunk.js": "/goit-react-hw-08-phonebook/static/js/946.4b745ffd.chunk.js",
-    "static/js/20.74425fa2.chunk.js": "/goit-react-hw-08-phonebook/static/js/20.74425fa2.chunk.js",
+    "static/js/20.065ed282.chunk.js": "/goit-react-hw-08-phonebook/static/js/20.065ed282.chunk.js",
     "static/js/696.f3b9b642.chunk.js": "/goit-react-hw-08-phonebook/static/js/696.f3b9b642.chunk.js",
     "static/js/506.20ba9250.chunk.js": "/goit-react-hw-08-phonebook/static/js/506.20ba9250.chunk.js",
     "static/js/686.fcaf303a.chunk.js": "/goit-react-hw-08-phonebook/static/js/686.fcaf303a.chunk.js",
     "static/js/135.f62af6ec.chunk.js": "/goit-react-hw-08-phonebook/static/js/135.f62af6ec.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.7ce1b187.css.map": "/goit-react-hw-08-phonebook/static/css/main.7ce1b187.css.map",
-    "main.1e2c88e1.js.map": "/goit-react-hw-08-phonebook/static/js/main.1e2c88e1.js.map",
+    "main.f0391257.js.map": "/goit-react-hw-08-phonebook/static/js/main.f0391257.js.map",
     "946.4b745ffd.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/946.4b745ffd.chunk.js.map",
-    "20.74425fa2.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/20.74425fa2.chunk.js.map",
+    "20.065ed282.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/20.065ed282.chunk.js.map",
     "696.f3b9b642.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/696.f3b9b642.chunk.js.map",
     "506.20ba9250.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/506.20ba9250.chunk.js.map",
     "686.fcaf303a.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/686.fcaf303a.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.7ce1b187.css",
-    "static/js/main.1e2c88e1.js"
+    "static/js/main.f0391257.js"
   ]
 }
